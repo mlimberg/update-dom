@@ -1,0 +1,22 @@
+{
+  "name": "update-dom",
+  "version": "1.0.0",
+  "description": "Update a small bit of text on the dom",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlimberg/update-dom.git"
+  },
+  "keywords": [
+    "dom"
+  ],
+  "author": "Mike Limberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlimberg/update-dom/issues"
+  },
+  "homepage": "https://github.com/mlimberg/update-dom#readme"
+}
