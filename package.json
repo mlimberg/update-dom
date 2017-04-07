@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/mlimberg/update-dom/issues"
   },
-  "homepage": "https://github.com/mlimberg/update-dom#readme"
+  "homepage": "https://github.com/mlimberg/update-dom#readme",
+  "devDependencies": {
+    "jquery": "^3.2.1"
+  }
 }
