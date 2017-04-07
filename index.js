@@ -1,6 +1,8 @@
-const $ = require('jquery');
+const $ = require('jquery')
 
 const updateDOM = (input, value) => {
-  $(`.${input}`).empty();
+  $(`.${input}`).empty()
   $(`.${input}`).append(value)
 }
+
+module.exports = updateDOM

@@ -1,10 +1,10 @@
 {
-  "name": "update-dom",
+  "name": "@username/update-dom",
   "version": "1.0.0",
   "description": "Update a small bit of text on the dom",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha --reporter spec"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,10 @@
   },
   "homepage": "https://github.com/mlimberg/update-dom#readme",
   "devDependencies": {
+    "jquery": "^3.2.1",
+    "mocha": "^3.2.0"
+  },
+  "dependencies": {
     "jquery": "^3.2.1"
   }
 }
